@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\layout\\view_banner.xml",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\layout\\view_banner.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\layout\\view_cycle_viewpager_indicator.xml",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\layout\\view_cycle_viewpager_indicator.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\layout\\ui_main.xml",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\layout\\ui_main.xml"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\layout\\view_cycle_viewpager_contet.xml",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\layout\\view_cycle_viewpager_contet.xml"
+    }
+]

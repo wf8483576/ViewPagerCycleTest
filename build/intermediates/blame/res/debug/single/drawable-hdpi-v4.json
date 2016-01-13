@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_error.png",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-hdpi\\icon_error.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_point.png",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-hdpi\\icon_point.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_empty.png",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-hdpi\\icon_empty.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_point_pre.png",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-hdpi\\icon_point_pre.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_stub.png",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-hdpi\\icon_stub.png"
+    }
+]

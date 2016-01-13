@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\test1.jpg",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-xhdpi\\test1.jpg"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\test2.jpg",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-xhdpi\\test2.jpg"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\test3.jpg",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-xhdpi\\test3.jpg"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\test4.jpg",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-xhdpi\\test4.jpg"
+    },
+    {
+        "merged": "E:\\studio_workspace\\ViewPagerCycleTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\test5.jpg",
+        "source": "E:\\studio_workspace\\ViewPagerCycleTest\\res\\drawable-xhdpi\\test5.jpg"
+    }
+]
